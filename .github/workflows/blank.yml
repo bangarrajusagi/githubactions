@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ganapathi_step1
-        run: echo " Jai Ganapathi Devayanamaha ..."
-      - name: ganapathi_step2
-        run: echo " Java Vignaeshwarayanamaha .."
+        run: |
+             echo " Jai Ganapathi Devayanamaha ..."
+             echo " Java Vignaeshwarayanamaha .."
