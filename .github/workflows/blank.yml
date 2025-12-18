@@ -7,4 +7,4 @@ jobs:
       - name: ganapathi_step1
         run: echo " Jai Ganapathi Devayanamaha ..."
       - name: ganapathi_step2
-        run: echi " Java Vignaeshwarayanamaha .."
+        run: echo " Java Vignaeshwarayanamaha .."
