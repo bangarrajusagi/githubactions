@@ -1,0 +1,10 @@
+name: Ganapathi-First-Work-Flow
+on: workflow_dispatch
+jobs: 
+  Ganapathi_first_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ganapathi_step1
+        run: echo " Jai Ganapathi Devayanamaha ..."
+      - name: ganapathi_step2
+        run: echi " Java Vignaeshwarayanamaha .."
